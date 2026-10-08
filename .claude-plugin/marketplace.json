@@ -1,0 +1,23 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "smaginweb",
+  "owner": {
+    "name": "smaginweb",
+    "url": "https://github.com/smaginweb"
+  },
+  "description": "Agent skills for plain answers and quiet code.",
+  "plugins": [
+    {
+      "name": "smaginweb-skills",
+      "source": "./",
+      "description": "Reports written for a QA tester, and code comments only where the code can't speak.",
+      "category": "productivity",
+      "keywords": [
+        "writing",
+        "reports",
+        "plain-language",
+        "code-comments"
+      ]
+    }
+  ]
+}

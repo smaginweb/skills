@@ -1,0 +1,20 @@
+{
+  "name": "smaginweb-skills",
+  "version": "0.1.0",
+  "description": "Agent skills for plain answers and quiet code: reports written for a QA tester, and comments only where the code can't speak.",
+  "author": {
+    "name": "smaginweb",
+    "url": "https://github.com/smaginweb"
+  },
+  "homepage": "https://github.com/smaginweb/skills",
+  "repository": "https://github.com/smaginweb/skills",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "writing",
+    "reports",
+    "plain-language",
+    "code-comments",
+    "productivity"
+  ]
+}
